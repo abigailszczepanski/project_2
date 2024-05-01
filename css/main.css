@@ -1,1 +1,93 @@
 /* Place CSS styles here */
+.resume{
+    background-color: rgb(24, 26, 55);
+}
+.resume{
+    max-width: 1000px;
+    max-height: 4000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.resume{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.row:after{
+    .column {
+        float: left;
+        width: 50%;
+      }
+      
+    /* Clear floats after the columns */
+      .row:after {
+        content: "Futura is a geometric sans-serif typeface designed by Paul Renner and released in 1927. ";
+        display: table;
+        clear: both;
+      }
+}
+p{
+    text-align: left;
+    font-size: 40px;"
+    margin-left: 50%;
+    margin-right: 60%;
+    color: rgb(254, 250, 244);
+    line-height: 85%;
+    letter-spacing: 0.5pt;
+}
+h1{
+    color: rgb(244, 255, 255);
+    text-align: right;
+    margin-right: -1%;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: xx-large;
+    line-height: 75%;
+    letter-spacing: 1pt;
+}
+h2{
+    color: rgb(149, 181, 225);
+    text-align: center;
+}
+li{
+    text-align: center;
+    align-items: center;
+    color: rgb(254, 250, 244);
+}
+ol{
+    text-align: center;
+    align-items: center;
+    color: rgb(254, 250, 244);
+}
+strong{
+    text-align: center;
+    color: rgb(254, 250, 244);
+}
+a{
+    color: rgb(184, 124, 196);
+}
+.about{
+    text-align: justify;
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.experience{
+    text-align: justify;
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h3{
+    text-align: left;
+    color: rgb(169, 128, 224);
+    margin-left: 10%;
+    line-height: 75%;
+}
+image{
+    align-content: center;
+}
+br{
+    line-height: 4pt;
+}
